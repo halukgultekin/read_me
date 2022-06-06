@@ -5,9 +5,15 @@
 I'm a Full-Time Flutter Freelancer in the Turkey. 🇹🇷 🧀
 
 🌍 I'm a Developer Expert for Flutter and Dart
+
 💙 I'm a member of the @flutterturkeycommunity Team
+
 🗣 I do talks on various topics
+
 💬 Ask me about building Flutter apps
+
 🎶 I listen all kinds of music
+
 😄 Life fact: Camping, travel, water skiing and enjoy lafe.
-⚡ Fun fact: I like to watch people play horror games but am too wimpy to play them myself
+
+⚡ Fun fact: When my friends come near me, they cry from laughter.
